@@ -38,11 +38,13 @@ The art you can create with this program looks much more interesting with more t
 3. Change the number of lines drawn each time you click to something larger than `3`.
 
 ### Medium
-1. Choose a random color for each line, or each set of lines. Can you make the three (or more) lines vary slightly in color?
+1. Choose a random color for each line, or each set of lines. Can you make the three (or more) lines vary slightly in color from each other?
 2. Make the number of lines random, within some reasonable bounds. This should make your piece more dynamic.
 3. Try adding other shapes, such as a circle wherever you click. Can you make its diameter vary randomly as well, while keeping it circular.
 
 ### Spicy
-Instead of taking mouse clicks to place the lines, can you generate a piece of art completely automatically by simulating the mouse position?
+Part 1:
+Instead of taking the actual mouse position into account to place the lines, can you generate a piece of art randomly by simulating the mouse position?
 
-One way to do this would be to draw a new set of lines each time the `draw` loop runs. You can use `noLoop()` to automatically stop the program running when your feel your work is complete.
+Part 2:
+Rewrite some of this code so that it doesn't require user clicks, and instead happens automatically. One way to do this would be to draw a new set of lines each time the `draw` loop runs. You can use `noLoop()` to automatically stop the program running when you feel your work is complete.
