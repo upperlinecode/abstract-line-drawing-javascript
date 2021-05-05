@@ -4,7 +4,7 @@
 
 Sort of like the splatter paint project we built earlier, you're going to be building a new art tool this afternoon. This one is going to allow the user to paint abstract art with lines.
 
-Here's what you'll be building: #####
+Here's <a href="https://jolson-examples.glitch.me/scratch-drawing.html" target="_blank_">what you'll be building</a>. Play with it for a bit and get a feel for what it does.
 
 ## The Lab
 
