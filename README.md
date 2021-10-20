@@ -1,5 +1,7 @@
 # Abstract Line Drawing
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/abstract-line-drawing-javascript)](https://repl.it/github/upperlinecode/abstract-line-drawing-javascript)
+
 ## Intro
 
 Sort of like the splatter paint project we built earlier, you're going to be building a new art tool this afternoon. This one is going to allow the user to paint abstract art with lines.
